@@ -4,3 +4,6 @@ This repository contains code and original data associated with Turner et al. 20
 
 Public SNP data used in the study can be found at the 1001 Genomes site: 
 https://1001genomes.org/data/GMI-MPI/releases/v3.1/
+
+Kinship matrix for these accessions:
+https://drive.google.com/file/d/1j4BGNzUzWmqiYMtlSLTIjlSIateZsQrv/view?usp=sharing
